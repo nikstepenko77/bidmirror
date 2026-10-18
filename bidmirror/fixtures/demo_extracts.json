@@ -1,0 +1,33 @@
+{
+  "a": {
+    "vendor": "Northline Home Repairs",
+    "currency": "USD",
+    "items": [
+      {"name": "Site preparation and protection", "category": "preparation", "amount": 450, "evidence": "Preparation and protection: $450 — cover floors and protect cabinets."},
+      {"name": "Remove old backsplash tiles", "category": "demolition", "amount": 550, "evidence": "Remove old backsplash tiles: $550 including disposal."},
+      {"name": "Install ceramic backsplash", "category": "finishing", "amount": 1700, "evidence": "Install new ceramic backsplash: $1,700 labor and adhesive included."},
+      {"name": "Final cleanup", "category": "cleanup", "amount": 150, "evidence": "Final cleanup: $150."}
+    ],
+    "exclusions": [{"text": "electrical alterations", "evidence": "Excludes electrical alterations."}],
+    "timeline": {"text": "5 working days", "evidence": "Expected duration: 5 working days."},
+    "warranty": {"text": "12 months on workmanship", "evidence": "Warranty: 12 months on workmanship."},
+    "payment_terms": {"text": "30% deposit, balance on completion", "evidence": "Payment: 30% deposit, balance due on completion."}
+  },
+  "b": {
+    "vendor": "BrightEdge Renovations",
+    "currency": "USD",
+    "items": [
+      {"name": "Site preparation and protection", "category": "preparation", "amount": 350, "evidence": "Site preparation and protection: $350 — cover kitchen floors and cabinets."},
+      {"name": "Remove existing tiles", "category": "demolition", "amount": 400, "evidence": "Remove existing tiles: $400. Debris disposal is NOT included."},
+      {"name": "Install ceramic backsplash", "category": "finishing", "amount": 1950, "evidence": "Install ceramic backsplash: $1,950 materials and labor included."},
+      {"name": "Final cleanup", "category": "cleanup", "amount": 220, "evidence": "Final cleaning: $220."}
+    ],
+    "exclusions": [
+      {"text": "debris disposal", "evidence": "Debris disposal is NOT included."},
+      {"text": "sink plumbing work", "evidence": "Excludes sink plumbing work."}
+    ],
+    "timeline": {"text": "8 working days", "evidence": "Expected duration: 8 working days."},
+    "warranty": null,
+    "payment_terms": {"text": "50% upfront and 50% at completion", "evidence": "Payment: 50% upfront and 50% at completion."}
+  }
+}
